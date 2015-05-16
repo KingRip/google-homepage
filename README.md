@@ -1,4 +1,2 @@
 # google-homepage
-The Homepage of Google
-
-I like coffee
+I HOPE THIS WORKS
